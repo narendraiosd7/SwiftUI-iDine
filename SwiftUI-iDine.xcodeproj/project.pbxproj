@@ -20,6 +20,7 @@
 		DDFB4308259F364B008E87D4 /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDFB4306259F364B008E87D4 /* ItemRow.swift */; };
 		DDFB430D259F371E008E87D4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DDFB430C259F371E008E87D4 /* Assets.xcassets */; };
 		DDFB4310259F41F9008E87D4 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDFB430F259F41F9008E87D4 /* OrderView.swift */; };
+		DDFB4313259F4483008E87D4 /* AppView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDFB4312259F4483008E87D4 /* AppView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		DDFB4306259F364B008E87D4 /* ItemRow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
 		DDFB430C259F371E008E87D4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DDFB430F259F41F9008E87D4 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
+		DDFB4312259F4483008E87D4 /* AppView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 				DDFB4306259F364B008E87D4 /* ItemRow.swift */,
 				DDFB4305259F364B008E87D4 /* ItemDetails.swift */,
 				DDFB430F259F41F9008E87D4 /* OrderView.swift */,
+				DDFB4312259F4483008E87D4 /* AppView.swift */,
 				DDFB42FA259F3618008E87D4 /* Helper.swift */,
 				DDFB42FE259F362A008E87D4 /* Menu.swift */,
 				DDFB42FD259F362A008E87D4 /* Order.swift */,
@@ -175,6 +178,7 @@
 				DDFB42F8259F3608008E87D4 /* ContentView.swift in Sources */,
 				DDFB4310259F41F9008E87D4 /* OrderView.swift in Sources */,
 				DDFB42FB259F3618008E87D4 /* Helper.swift in Sources */,
+				DDFB4313259F4483008E87D4 /* AppView.swift in Sources */,
 				DDFB4308259F364B008E87D4 /* ItemRow.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
