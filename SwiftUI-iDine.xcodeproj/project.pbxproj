@@ -21,6 +21,7 @@
 		DDFB430D259F371E008E87D4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DDFB430C259F371E008E87D4 /* Assets.xcassets */; };
 		DDFB4310259F41F9008E87D4 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDFB430F259F41F9008E87D4 /* OrderView.swift */; };
 		DDFB4313259F4483008E87D4 /* AppView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDFB4312259F4483008E87D4 /* AppView.swift */; };
+		DDFB4316259F49ED008E87D4 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDFB4315259F49ED008E87D4 /* CheckoutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		DDFB430C259F371E008E87D4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DDFB430F259F41F9008E87D4 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
 		DDFB4312259F4483008E87D4 /* AppView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppView.swift; sourceTree = "<group>"; };
+		DDFB4315259F49ED008E87D4 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 				DDFB4305259F364B008E87D4 /* ItemDetails.swift */,
 				DDFB430F259F41F9008E87D4 /* OrderView.swift */,
 				DDFB4312259F4483008E87D4 /* AppView.swift */,
+				DDFB4315259F49ED008E87D4 /* CheckoutView.swift */,
 				DDFB42FA259F3618008E87D4 /* Helper.swift */,
 				DDFB42FE259F362A008E87D4 /* Menu.swift */,
 				DDFB42FD259F362A008E87D4 /* Order.swift */,
@@ -171,6 +174,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DDFB4300259F362A008E87D4 /* Menu.swift in Sources */,
+				DDFB4316259F49ED008E87D4 /* CheckoutView.swift in Sources */,
 				DDFB42E2259F35C1008E87D4 /* AppDelegate.swift in Sources */,
 				DDFB42E4259F35C1008E87D4 /* SceneDelegate.swift in Sources */,
 				DDFB42FF259F362A008E87D4 /* Order.swift in Sources */,
